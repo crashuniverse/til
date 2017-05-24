@@ -3,3 +3,6 @@ The Today I Learnt thingy inspired by others.
 
 ## Workflow Tools
 Gerrit
+
+## Tests
+Test setup
