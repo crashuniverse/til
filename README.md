@@ -7,3 +7,4 @@ Gerrit
 ## Tests
 Test setup
 Jest
+Coverage reports
